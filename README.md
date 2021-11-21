@@ -1,16 +1,10 @@
-<h1 align='center'>Vue2 VueUse Example</h1>
+<h1 align='center'>
+<a href="https://github.com/JuniorTour/vue-template-babel-compiler" target="_blank">vue-template-babel-compiler </a>
+&& VueUse Example</h1>
 
-<p align='center'>
-<img src='./src/logo.svg' height='120'/>
-</p>
+## DEMO
+![92df1606f5d2a510acdb4b8d41742cb](https://user-images.githubusercontent.com/14243906/142756912-eb23cda8-338a-4dcf-b516-04aae3932804.png)
 
-
-Example for [Vue 2](https://vuejs.org/) + [VueUse](https://github.com/antfu/vueuse) with [Vue CLI](https://cli.vuejs.org/)
-
-🌐 [Live Demo](https://vueuse-vue2-example.netlify.app/)
-
-📦 [Vue3 Webpack Example](https://github.com/antfu/vueuse-next-example)
-📦 [Vite Example](https://github.com/antfu/vite-vueuse-starter)
 
 ## Installation
 
